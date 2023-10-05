@@ -17,7 +17,17 @@ The result is an 8-bit PNG file where each distinct class from the shapefile is 
 ### 1. raster2png
 
 - **Description**: Converts a Raster image into an 8-bit PNG.
-- **Usage**: _Specific usage instructions for this function, if separate from the main command._
+- **Usage**:
+	**Command**:
+	```bash
+	test_raster2png.py [-h] src_raster output_folder
+	```
+
+	**Example**:
+	```bash
+	!python tutorial/test_raster2png.py tutorial/in_folder/myraster.tif tutorial/out_folder
+	```
+
 
 ### 2. shp2labelme
 
