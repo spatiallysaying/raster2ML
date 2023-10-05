@@ -1,7 +1,7 @@
 # raster2ML
 
 <p align="center">
-    <img src="./data/icons/logo.png" alt="Raster2ML Logo" width="512" height="512">
+    <img src="./data/icons/logo.png" alt="Raster2ML Logo" width="256" height="256">
 </p>
 
 
