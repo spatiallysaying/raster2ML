@@ -1,6 +1,7 @@
 # raster2ML
 
-![Raster2ML Logo](./data/icons/logo.png)
+<img src="./data/icons/logo.png" alt="Raster2ML Logo" width="128" height="128">
+
 
 
 ## Purpose
@@ -9,7 +10,7 @@
 
 ## Output
 
-The result is an 8-bit PNG file where each distinct class from the shapefile is represented by a different color.
+The result is an 8-bit PNG file where a different color represents each distinct class from the shapefile.
 
 ## Usage
 
