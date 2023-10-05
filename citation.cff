@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Dhulipudi"
+  given-names: "Durga Prasad"
+  orcid: "https://orcid.org/Your-ORCID-ID"
+title: "raster2ML: is a utility designed to process a Raster file and its corresponding shapefile to produce a raster mask file. The mask assigns class colors(names) based on the specified field in the shapefile.
+"
+url: "https://github.com/spatiallysaying/raster2ML.git"
+license: GPL-3
