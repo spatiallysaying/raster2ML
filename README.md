@@ -1,5 +1,8 @@
 # raster2ML
 
+![Raster2ML Logo](./data/icons/logo.png)
+
+
 ## Purpose
 
 `raster2ML` is a utility designed to process a Raster file and its corresponding shapefile to produce a raster mask file. The mask assigns class names based on the specified field in the shapefile.
