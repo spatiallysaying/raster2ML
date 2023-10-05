@@ -1,6 +1,8 @@
 # raster2ML
 
-<img src="./data/icons/logo.png" alt="Raster2ML Logo" width="128" height="128">
+<p align="center">
+    <img src="./data/icons/logo.png" alt="Raster2ML Logo" width="512" height="512">
+</p>
 
 
 
