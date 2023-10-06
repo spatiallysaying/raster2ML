@@ -67,3 +67,16 @@ test_labelme2mask.py [-h] source_json_file target_folder
 ## Dependencies
 
 Ensure you have all the necessary dependencies installed. Refer to `requirements.txt` for a list of required packages.
+
+## Citation
+
+If you use raster2ML in your research, please consider citing:
+
+```bibtex
+@misc{spatiallysaying_2023_raster2ML,
+  title={raster2ML: [ Utility designed to process a Raster file and its corresponding shapefile to produce a raster mask file]},
+  author={Durga Prasad, Dhulipudi},
+  year={2023},
+  url={https://github.com/spatiallysaying/raster2ML}
+}
+
